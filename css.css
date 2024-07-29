@@ -21,7 +21,7 @@ body{
     border-radius: 20px;
     background-color: rgba(8, 16, 88, 0.411);
     position: fixed;
-    top: 20vw;
+    top: 40vw;
     left: 14vw;
     justify-content: center;
 
@@ -44,7 +44,7 @@ footer{
     align-items: center;
     text-align: center;
     position: fixed;
-    left: 25%;
+    left: 20%;
     bottom: 1vw;
 
 }
