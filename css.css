@@ -21,20 +21,21 @@ body{
     border-radius: 20px;
     background-color: rgba(8, 16, 88, 0.411);
     position: fixed;
-    top: 40vw;
-    left: 14vw;
+    top: 30vw;
+    left: 10vw;
     justify-content: center;
 
 }
 h{
     font-family: sans-serif;
-    font-size: 3.5vw;
+    font-size: 5vw;
 }
 p{
     font-family: fantasy;
-    font-size: 1.5VW;
+    font-size: 2.5VW;
 }
 li{
+    text-align: center;
     display: inline;
     list-style: none;
     padding: 2VW;
