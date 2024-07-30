@@ -24,8 +24,7 @@ body{
     top: 30vw;
     left: 10vw;
     justify-content: center;
-    
-z-index: 2;
+    z-index: 2;
 }
 h{
     font-family: sans-serif;
